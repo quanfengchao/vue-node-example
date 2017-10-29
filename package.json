@@ -1,0 +1,21 @@
+{
+  "name": "vue-node-example",
+  "version": "1.0.0",
+  "description": "Vue.js范例项目",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/.bin/browser-sync start --server -no-notify --files='index.html, *.css, *.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quanfengchao/vue-node-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quanfengchao/vue-node-example/issues"
+  },
+  "homepage": "https://github.com/quanfengchao/vue-node-example#readme"
+}
